@@ -12,7 +12,7 @@ function Banner() {
         <div className="banner-info">
 
           <h1>WELCOME TO SEXTANT'S WORLD</h1>
-          <a href="services">Explore</a>
+          <a href="service">Explore</a>
 
 
         </div>
