@@ -1,0 +1,31 @@
+.navbar{
+    background: powderblue;
+    height:100px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    
+    
+
+    
+}
+
+.logo{
+
+color: aliceblue;
+font-weight: bolder;
+font-style: oblique;
+font: italic;
+font-size: 40px;
+
+}
+a{
+    color: whitesmoke;
+    font-weight: bold;
+
+}
+a:hover{
+    background-color: wheat;
+    font-size: 150%;
+}
+
