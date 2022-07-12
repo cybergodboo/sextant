@@ -11,7 +11,7 @@ function Banner() {
         
         <div className="banner-info">
 
-          <h1>WELCOME TO SEXTANT'S WORLD</h1>
+          <h1>WELCOME TO SEXTANT'S WORLD..</h1>
           <a href="service">Explore</a>
 
 
